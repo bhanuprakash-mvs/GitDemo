@@ -34,6 +34,11 @@
 
 # WHILE Loop
 
+
+print("Testing GIT HUB1")
+print("Testing GIT HUB2")
+print("Testing GIT HUB3")
+
 a = 10
 while a > 0:
     if a == 7:
