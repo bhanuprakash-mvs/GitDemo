@@ -1,6 +1,10 @@
 print('I LOVE MOUNIKA')
 print('OM NAMAH SHIVAYA')
 print('MY FIRST PYTHON CODE IN PYCHARM EDITOR')
+print("Testing GIT HUB0")
+print("Testing GIT HUB1")
+print("Testing GIT HUB2")
+print("Testing GIT HUB3")
 
 a = 2
 print(a)
