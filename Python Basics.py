@@ -10,6 +10,8 @@ print("Testing GIT HUB5")
 print("Testing GIT HUB6")
 print("Testing GIT HUB7")
 print("Testing GIT HUB8")
+print("Testing GIT HUB Branches 1")
+print("Testing GIT HUB Branches 2")
 
 a = 2
 print(a)

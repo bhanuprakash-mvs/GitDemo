@@ -38,6 +38,8 @@
 print("Testing GIT HUB1")
 print("Testing GIT HUB2")
 print("Testing GIT HUB3")
+print("Testing GIT HUB Branches 1")
+print("Testing GIT HUB Branches 1")
 
 a = 10
 while a > 0:
